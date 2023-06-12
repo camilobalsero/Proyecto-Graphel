@@ -71,13 +71,13 @@ ul{
   .clear{
     clear: both;
   }
-  .suscribsion{
+  .suscripcion{
     background-color:#24282B ;
     color: #ffffff;
     height: 100px;
     font-family: 'Roboto', sans-serif;
   }
-  .suscribsion button {
+  .suscripcion button {
     float: right;
     margin-right: 100px;
     margin-top: 25px;
@@ -89,7 +89,7 @@ ul{
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
   }
-  .suscribsion input {
+  .suscripcion input {
     float: right;
     padding: 10px 40px;
     margin-top: 31px;
@@ -167,7 +167,7 @@ footer{
   margin-left: 18px;
   font-size: 18px;
   float:right;
-  background-color: #24282B;
+  background-color: #35424A;
   color: white;
   padding-top: 45px;
   padding-left: 20px;
